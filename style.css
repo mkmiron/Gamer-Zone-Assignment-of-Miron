@@ -254,7 +254,7 @@
   }
   
   .car-left {
-    padding: 120px 0 120px 240px;
+    padding: 100px 0 120px 240px;
     text-align: justify;
     display: flex;
     flex-direction: column;
@@ -311,11 +311,11 @@
   footer {
     color: white;
     background-color: #0B0223;
-    padding: 120px 240px;
+    padding: 90px 240px;
     text-align: center;
     display: flex;
     flex-direction: column;
-    row-gap: 65px;
+    row-gap: 35px;
   }
   
   .foot-title {
